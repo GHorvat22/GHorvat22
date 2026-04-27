@@ -1,12 +1,74 @@
-<h1 align="center">Hi 👋, I'm Greg!</h1>
-<h3 align="center">A third-year BEng Computer Systems Engineering Student</h3>
+# Hi, I'm Greg 👋
 
-- 📫 Contact Me! **horvatgregory9@gmail.com**
+🎓 Third-year Computer Systems Engineering student at Carleton University  
+🔧 Interested in Embedded Systems, Software Design, and Hardware Integration  
+📍 Based in Ontario, Canada  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gregory-horvat-88b5a2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory-horvat-88b5a2303" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 💡 Passionate about building systems that combine **hardware + software**
+- 🧠 Experience with embedded programming, system design, and debugging
+- 🔍 Currently looking for **internship opportunities (4–8 months)**
+- ⚙️ Enjoy working on real-world engineering problems and hands-on projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C / C++
+- Python
+- Java
+- Verilog / VHDL
+
+**Tools & Technologies**
+- Raspberry Pi, GPIO, I2C
+- Git & GitHub
+- Linux / WSL
+- MATLAB / Simulink
+- Firebase
+- Flask
+
+---
+
+## 📌 Featured Projects
+
+### 🚦 MetroBeacon (Embedded Systems Project)
+> Real-time transit LED display system using Raspberry Pi + Firebase
+
+- Implemented **GPIO-based LED control and button input handling**
+- Designed logic for **arrival detection and dynamic LED blinking**
+- Integrated with **Firebase Realtime Database**
+- Debugged hardware/software interaction issues (pull-up/down, signal stability)
+
+🔗 [View Project](#)
+
+---
+
+### 📡 [Project Name]
+> Short description of what it does
+
+- Key contribution or feature
+- Another technical highlight
+- Technologies used
+
+🔗 [View Project](#)
+
+---
+
+## 📈 What I'm Working On
+- Improving embedded system design skills
+- Building more **hardware-integrated projects**
+- Preparing for engineering internship roles
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: your.email@example.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving tricky hardware bugs that turn out to be one-line fixes.
