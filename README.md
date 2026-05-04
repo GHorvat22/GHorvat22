@@ -53,9 +53,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60"/><br>MATLAB / Simulink
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/><br>Firebase
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git
     </td>
   </tr>
@@ -70,6 +67,9 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60"/><br>SQLite
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/><br>Firebase
     </td>
   </tr>
 </table>
